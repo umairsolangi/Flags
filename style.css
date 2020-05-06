@@ -1,0 +1,32 @@
+body{
+    background-color: #e2e4e5;
+    text-align: center;
+}
+h1{   
+     background-color: #eceff1;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    text-shadow: 1px 1px 2px red;
+    text-align: center;
+    padding: 10px;
+
+}
+figcaption{
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+    font-size: 2rem;
+}
+
+
+figure{
+    display: inline-block;
+    
+
+}
+figure:hover{
+    background-color: #eceff1;
+    color: red;
+}
+img{
+    width: 200px;
+}
